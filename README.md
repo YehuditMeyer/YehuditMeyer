@@ -1,31 +1,49 @@
 # About me
 
-Hi there! I'm Yehudit, a **Software Developer** | Front-end · Back-end · Real-Time Systems  
-Curious, focused, and passionate about building clean, intuitive, and scalable systems.  
-Loves problem-solving, writing elegant code, and turning ideas into working products.
+Hi there! I'm Yehudit, a software developer working across front-end, back-end, and real-time systems.  
+I'm curious, focused, and passionate about clean code, elegant architecture, and solving real-world problems.  
+Always learning, always building — aiming to make technology meaningful and intuitive.
 
----
+
 
 ## 💻 Languages & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48"/><br/>React Native
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48"/><br/>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48"/><br/>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48"/><br/>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="48"/><br/>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="48"/><br/>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48"/><br/>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/docker.png" width="48"/><br/>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/git.png" width="48"/><br/>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48"/><br/>Bootstrap
+    </td>
+  </tr>
+</table>
 
 
 
