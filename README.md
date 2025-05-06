@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Yehudit Meir
+# About me
 
-**Software Developer** | Front-end · Back-end · Real-Time Systems  
+Hi there! I'm Yehudit, a **Software Developer** | Front-end · Back-end · Real-Time Systems  
 Curious, focused, and passionate about building clean, intuitive, and scalable systems.  
 Loves problem-solving, writing elegant code, and turning ideas into working products.
 
