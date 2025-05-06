@@ -1,8 +1,9 @@
 # About me
 
-Hi there! I'm Yehudit, a software developer working across front-end, back-end, and real-time systems.  
-I'm curious, focused, and passionate about clean code, elegant architecture, and solving real-world problems.  
-Always learning, always building — aiming to make technology meaningful and intuitive.
+Hi there! I'm Yehudit, a software developer working across front-end, back-end, and real-time systems.
+
+Quietly passionate about clean code, elegant systems, and solving real-world problems with clarity and purpose.  
+Always learning. Always refining. Strength lies in focus, not in noise.
 
 
 
