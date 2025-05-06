@@ -3,7 +3,7 @@
 Hi there! I'm Yehudit, a software developer working across front-end, back-end, and real-time systems.  
 I'm curious, focused, and passionate about clean code, elegant architecture, and solving real-world problems.  
 Always learning, always building — aiming to make technology meaningful and intuitive.
-
+🙂
 
 
 
@@ -38,9 +38,9 @@ Always learning, always building — aiming to make technology meaningful and in
 </p>
 
 
---
 
-## 📈 GitHub Stats
+
+##  GitHub Stats
 Here’s a quick look at my GitHub activity and languages I use most frequently:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YehuditMeyer&show_icons=true&theme=calm" height="150" />
@@ -48,7 +48,7 @@ Here’s a quick look at my GitHub activity and languages I use most frequently:
 </p>
 
 
-## 📫 Contact
+##  Contact
 
 📧 yhdt07446@gmail.com
 
